@@ -3,4 +3,8 @@ layout: page
 title: "Blog"
 ---
 
-I'm a student at University of Oxford studying mathematics and foundation of computer science.
+Master Student in Math and Foundation of Computer Science
+
+Location: UK
+
+Interests: musicals, arts
