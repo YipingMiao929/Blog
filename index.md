@@ -3,7 +3,7 @@ layout: page
 title: "Blog"
 ---
 
-Master Student in Math and Foundation of Computer Science
+Master Student in Maths and Foundation of Computer Science
 
 Location: UK
 
