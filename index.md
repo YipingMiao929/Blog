@@ -3,8 +3,12 @@ layout: page
 title: "Blog"
 ---
 
-Master Student in Maths and Foundation of Computer Science
+Currently a PhD student in University of California, Berkeley
+Logic/Methedology of Science
 
-Location: UK
+BSc in Math and Applied Math, Zhejiang University, 2021
+MSc in Maths and Foundation of Computer Science, Oxford, 2022
+
+Location: California, USA
 
 Interests: musicals, arts
